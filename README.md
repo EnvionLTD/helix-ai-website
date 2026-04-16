@@ -21,5 +21,5 @@ Static front-end site for Helix AI. Pure HTML/CSS, no build step, no dependencie
 Open `index.html` in a browser. That's it.
 
 ## Contact
-- Email: contactmyles@gmail.com
+- Email: contactmylest@gmail.com
 - Phone: +44 7305 257178
